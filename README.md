@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![First Snapshot from Project File](../kodluyoruzilkrepo/images/snapshot.png)
+![First Snapshot from Project File](images/snapshot.png)
